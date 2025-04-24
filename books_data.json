@@ -1,0 +1,23 @@
+[
+    {
+        "title": "the alchemist",
+        "author": "abc",
+        "year": 1988,
+        "genre": "fantasy",
+        "read": true
+    },
+    {
+        "title": "khadija's story",
+        "author": "khadija",
+        "year": 2025,
+        "genre": "truebased",
+        "read": false
+    },
+    {
+        "title": "the catcher in the rye",
+        "author": "pqr",
+        "year": 1951,
+        "genre": "fiction",
+        "read": false
+    }
+]
